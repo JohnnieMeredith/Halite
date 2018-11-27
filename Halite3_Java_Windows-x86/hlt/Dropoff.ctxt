@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Dropoff
+comment1.params=owner\ id\ position
+comment1.target=Dropoff(PlayerId,\ EntityId,\ Position)
+comment2.params=playerId
+comment2.target=Dropoff\ _generate(PlayerId)
+numComments=3

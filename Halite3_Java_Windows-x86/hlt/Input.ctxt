@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Input
+comment1.params=line
+comment1.target=Input(java.lang.String)
+comment2.params=
+comment2.target=int\ getInt()
+comment3.params=
+comment3.target=Input\ readInput()
+comment4.params=
+comment4.target=java.lang.String\ readLine()
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MapCell
+comment1.params=position\ halite
+comment1.target=MapCell(Position,\ int)
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=boolean\ isOccupied()
+comment4.params=
+comment4.target=boolean\ hasStructure()
+comment5.params=ship
+comment5.target=void\ markUnsafe(Ship)
+comment6.params=ship
+comment6.target=void\ markSafe(Ship)
+numComments=7

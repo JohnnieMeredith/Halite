@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Shipyard
+comment1.params=owner\ position
+comment1.target=Shipyard(PlayerId,\ Position)
+comment2.params=
+comment2.target=Command\ spawn()
+numComments=3

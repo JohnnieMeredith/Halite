@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Command
+comment1.params=
+comment1.target=Command\ spawnShip()
+comment2.params=id
+comment2.target=Command\ transformShipIntoDropoffSite(EntityId)
+comment3.params=id\ direction
+comment3.target=Command\ move(EntityId,\ Direction)
+comment4.params=command
+comment4.target=Command(java.lang.String)
+comment5.params=o
+comment5.target=boolean\ equals(java.lang.Object)
+comment6.params=
+comment6.target=int\ hashCode()
+numComments=7

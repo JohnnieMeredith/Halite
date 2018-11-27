@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Constants
+comment1.params=stringFromEngine
+comment1.target=void\ populateConstants(java.lang.String)
+comment2.params=map\ key
+comment2.target=int\ getInt(java.util.Map,\ java.lang.String)
+comment3.params=map\ key
+comment3.target=double\ getDouble(java.util.Map,\ java.lang.String)
+comment4.params=map\ key
+comment4.target=boolean\ getBoolean(java.util.Map,\ java.lang.String)
+comment5.params=map\ key
+comment5.target=java.lang.String\ getString(java.util.Map,\ java.lang.String)
+numComments=6

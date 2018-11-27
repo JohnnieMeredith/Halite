@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GameMap
+comment1.params=width\ height
+comment1.target=GameMap(int,\ int)
+comment2.params=position
+comment2.target=MapCell\ at(Position)
+comment3.params=entity
+comment3.target=MapCell\ at(Entity)
+comment4.params=source\ target
+comment4.target=int\ calculateDistance(Position,\ Position)
+comment5.params=position
+comment5.target=Position\ normalize(Position)
+comment6.params=source\ destination
+comment6.target=java.util.ArrayList\ getUnsafeMoves(Position,\ Position)
+comment7.params=ship\ destination
+comment7.target=Direction\ naiveNavigate(Ship,\ Position)
+comment8.params=
+comment8.target=void\ _update()
+comment9.params=
+comment9.target=GameMap\ _generate()
+numComments=10

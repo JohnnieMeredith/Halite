@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=
+comment1.target=Game()
+comment2.params=name
+comment2.target=void\ ready(java.lang.String)
+comment3.params=
+comment3.target=void\ updateFrame()
+comment4.params=commands
+comment4.target=void\ endTurn(java.util.Collection)
+numComments=5

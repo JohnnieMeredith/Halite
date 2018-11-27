@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=id\ shipyard
+comment1.target=Player(PlayerId,\ Shipyard)
+comment2.params=numShips\ numDropoffs\ halite
+comment2.target=void\ _update(int,\ int,\ int)
+comment3.params=
+comment3.target=Player\ _generate()
+numComments=4

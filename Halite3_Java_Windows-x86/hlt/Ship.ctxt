@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Ship
+comment1.params=owner\ id\ position\ halite
+comment1.target=Ship(PlayerId,\ EntityId,\ Position,\ int)
+comment2.params=
+comment2.target=boolean\ isFull()
+comment3.params=
+comment3.target=Command\ makeDropoff()
+comment4.params=direction
+comment4.target=Command\ move(Direction)
+comment5.params=
+comment5.target=Command\ stayStill()
+comment6.params=playerId
+comment6.target=Ship\ _generate(PlayerId)
+comment7.params=o
+comment7.target=boolean\ equals(java.lang.Object)
+comment8.params=
+comment8.target=int\ hashCode()
+numComments=9

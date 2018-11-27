@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Entity
+comment1.params=owner\ id\ position
+comment1.target=Entity(PlayerId,\ EntityId,\ Position)
+comment2.params=o
+comment2.target=boolean\ equals(java.lang.Object)
+comment3.params=
+comment3.target=int\ hashCode()
+numComments=4

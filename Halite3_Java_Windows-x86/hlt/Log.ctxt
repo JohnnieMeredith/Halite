@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Log
+comment1.params=f
+comment1.target=Log(java.io.FileWriter)
+comment2.params=botId
+comment2.target=void\ open(int)
+comment3.params=message
+comment3.target=void\ log(java.lang.String)
+numComments=4

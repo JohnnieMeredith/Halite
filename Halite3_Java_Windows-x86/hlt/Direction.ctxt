@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Direction
+comment1.params=
+comment1.target=Direction\ invertDirection()
+comment2.params=charValue
+comment2.target=Direction(char)
+numComments=3
